@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6604b56a.chunk.css",
+    "main.js": "/static/js/main.d37ed451.chunk.js",
+    "main.js.map": "/static/js/main.d37ed451.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fb573f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fb573f2.js.map",
+    "static/js/2.274290c8.chunk.js": "/static/js/2.274290c8.chunk.js",
+    "static/js/2.274290c8.chunk.js.map": "/static/js/2.274290c8.chunk.js.map",
+    "static/js/3.4f961763.chunk.js": "/static/js/3.4f961763.chunk.js",
+    "static/js/3.4f961763.chunk.js.map": "/static/js/3.4f961763.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6604b56a.chunk.css.map": "/static/css/main.6604b56a.chunk.css.map",
+    "static/js/2.274290c8.chunk.js.LICENSE.txt": "/static/js/2.274290c8.chunk.js.LICENSE.txt",
+    "static/media/chair.f10c11b9.jpg": "/static/media/chair.f10c11b9.jpg",
+    "static/media/cobra.fcbccbd9.jpg": "/static/media/cobra.fcbccbd9.jpg",
+    "static/media/count.f89c5fa1.wav": "/static/media/count.f89c5fa1.wav",
+    "static/media/dog.551aeeb3.jpg": "/static/media/dog.551aeeb3.jpg",
+    "static/media/shoulderstand.784f28f4.jpg": "/static/media/shoulderstand.784f28f4.jpg",
+    "static/media/traingle.e09c1851.jpg": "/static/media/traingle.e09c1851.jpg",
+    "static/media/tree.04893f79.jpg": "/static/media/tree.04893f79.jpg",
+    "static/media/warrior.ad323405.jpg": "/static/media/warrior.ad323405.jpg",
+    "static/media/Home.css": "/static/media/yoga_pose.822bc313.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb573f2.js",
+    "static/js/2.274290c8.chunk.js",
+    "static/css/main.6604b56a.chunk.css",
+    "static/js/main.d37ed451.chunk.js"
+  ]
+}

@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+
+.form-container {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    
+  }
+
+  .yoga-container22 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    
+  }
+
+  .yoga-container22 h1{
+    font-family: 'Rancho', cursive;
+    font-size: 150px;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    
+  }
+  .button-container button{
+     /* Green */
+  border: none;
+  color: rgb(26, 24, 24);
+  padding: 25px 56px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+  
+
+  }
+
+  .button-container button:hover {
+    background-color: green;
+    color:white
+  }
+
+.yoga-container {
+    background: linear-gradient(100deg, pink, paleturquoise);
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+
+input[type="text"], input[type="email"] {
+    font-size: 100px;
+  }
+
+.agebody{height:100vh;
+    background: linear-gradient(
+       to right,
+       pink 0%,
+       pink 50%,
+       paleturquoise 50%,
+       paleturquoise 100%
+        );
+    }
+
+
+.secondary-btn {
+    position: relative;
+    left: 45%;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    border-color: rgba(125, 125, 125, 0.1);
+    border-width: 5px;
+    background-color: rgba(0, 0, 0,0.2);
+    box-shadow: 0px 0px 0px 0px;
+    color: white;
+}
+
+.secondary-btn:hover {
+    background-color: rgba(0, 0, 0,0.4);
+}
+
+.starting-contdown {
+    margin: auto;
+    border: 10px solid rgba(125, 125, 125, 0.5);
+    width: max-content;
+    padding: 10px 30px;
+    border-radius: 50%;
+    background-color: rgba(255,255,255,0);
+    position: relative;
+    top: 45%;
+}
+.starting-contdown h1 {
+    color: white;
+}
+.pose-img {
+    position: absolute;
+    right: 120px;
+    top: 80px;
+    width: 500px;
+    aspect-ratio: 1;
+}
+
+.performance-container {
+    display: flex;
+    padding: 20px;
+    position: absolute;
+    left: 150px;
+}
+
+
+.pose-performance {
+    margin: 10px 10px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+.pose-performance h4 {
+    color: rgba(0,0,0,0.7);
+}
+
+#webcam {
+    transform: rotateY(180deg);
+}
+
+#my-canvas {
+    transform: rotateY(180deg);
+}
+
+
+
+
+
+
